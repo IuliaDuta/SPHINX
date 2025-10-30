@@ -26,12 +26,12 @@ The code for the differentiable k-subset sampling is based on: https://github.co
 
 We would like to thank all the authors of the above papers for their work and for making the code available. 
 
-## Enviroment requirement:
+## Enviroment requirement
 The required env is stored in: environment.yml
 
 
 
-## Overview::
+## Overview
 
 `hypergraph_predictor.HypergraphpPredictorSeq(...)` -- generates the hypergraph structure (the discrete incidence matrix) based on the observed trajectory x
 
