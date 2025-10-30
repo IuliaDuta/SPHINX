@@ -23,6 +23,7 @@ url={https://openreview.net/forum?id=sfQJrVb4XM}
 
 Note: The code for generating the NBA dataset is based on the repository from: https://github.com/MediaBrain-SJTU/GroupNet/tree/main. 
 The code for the differentiable k-subset sampling is based on: https://github.com/uclnlp/torch-imle, https://github.com/EdinburghNLP/torch-adaptive-imle and https://github.com/UCLA-StarAI/SIMPLE
+
 We would like to thank all the authors of the above papers for their work and for making the code available. 
 
 ## Enviroment requirement:
